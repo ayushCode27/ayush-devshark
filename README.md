@@ -4,12 +4,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-145a20166/)
 
 I'm a Software Developer from Delhi, India.
-I love building beautiful, accessible and component driven interfaces using latest technologies with strong reliance on fundamentals.
+I love building beautiful, component driven interfaces from scratch following UI/UX Design Thinking and Principles.
 
 -   👨 Pronouns: He/Him
--   👨‍💻 I'm currently learning TypeScript.
+-   🌱 I'm currently learning TypeScript.
 -   📫 How to reach me: ayushagarwal.dev@gmail.com.
--   ⚡ Fun fact about me: I'm lawyer turned software developer.
 
 <br>
 

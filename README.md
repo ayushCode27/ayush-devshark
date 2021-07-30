@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-145a20166/)
 
 I'm a Software Developer from Delhi, India.
-I love building beautiful, component driven user interfaces from scratch following UI/UX Design thinking and principles.
+I love building beautiful, component driven interfaces from scratch following UI/UX Design thinking and principles.
 
 -   👨 Pronouns: He/Him
 -   🌱 I'm currently learning TypeScript.

@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-145a20166/)
 
 I'm a Software Developer from Delhi, India.
-I love building beautiful, component driven interfaces from scratch following UI/UX Design Thinking and Principles.
+I love building beautiful, component driven user interfaces from scratch following UI/UX Design thinking and principles.
 
 -   👨 Pronouns: He/Him
 -   🌱 I'm currently learning TypeScript.
@@ -25,6 +25,7 @@ I love building beautiful, component driven interfaces from scratch following UI
 
 [![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
 [![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
+[![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=13AA52)](#)

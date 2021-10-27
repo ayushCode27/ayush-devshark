@@ -7,7 +7,7 @@ I'm a Software Developer from Delhi, India.
 I love building beautiful, component driven interfaces from scratch following UI/UX Design thinking and principles.
 
 -   👨 Pronouns: He/Him
--   🌱 I'm currently learning TypeScript.
+-   🌱 I'm currently learning Solidity.
 -   📫 How to reach me: ayushagarwal.dev@gmail.com.
 
 <br>
@@ -45,4 +45,4 @@ I love building beautiful, component driven interfaces from scratch following UI
 
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-devshark&hide=contribs,prs&theme=ayu-mirage&hide_border=true)](https://github.com/ayush-devshark/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-devshark&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&)](https://github.com/ayush-devshark/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-devshark&langs_count=6&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&)](https://github.com/ayush-devshark/github-readme-stats)

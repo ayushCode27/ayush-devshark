@@ -43,6 +43,4 @@ I love building beautiful, component driven interfaces from scratch following UI
 
 <br>
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-devshark&hide=contribs,prs&theme=ayu-mirage&hide_border=true)](https://github.com/ayush-devshark/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-devshark&langs_count=7&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&)](https://github.com/ayush-devshark/github-readme-stats)

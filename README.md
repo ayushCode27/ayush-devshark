@@ -7,7 +7,6 @@ I'm a Software Developer from Delhi, India.
 I love building beautiful, component driven interfaces from scratch following UI/UX Design thinking and principles.
 
 -   👨 Pronouns: He/Him
--   🌱 I'm currently learning Solidity.
 -   📫 How to reach me: ayushagarwal.dev@gmail.com.
 
 <br>

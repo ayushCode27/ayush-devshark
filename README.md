@@ -42,6 +42,6 @@ I love building beautiful, component driven interfaces from scratch following UI
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushCode27&langs_count=7&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&)](https://github.com/ayushCode27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwal27&langs_count=7&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&)](https://github.com/ayushCode27/github-readme-stats)
 
 

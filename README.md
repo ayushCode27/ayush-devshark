@@ -22,18 +22,20 @@ I love building beautiful, component driven interfaces from scratch following UI
 [![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
 
 [![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
+[![NextJS Badge](https://img.shields.io/badge/-nextjs-gray?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
 [![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
+
+[![ThreeJS Badge](https://img.shields.io/badge/-threejs-705df2?style=for-the-badge&labelColor=white&logo=three.js&logoColor=705df2)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
 
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![MongoDB Badge](https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=13AA52)](#)
-[![Express Badge](https://img.shields.io/badge/-Express-ddd?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
-[![Postman Badge](https://img.shields.io/badge/-postman-black?style=for-the-badge&labelColor=black&logo=postman)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
+
 
 [![Webpack Badge](https://img.shields.io/badge/-Webpack-c9f4ff?style=for-the-badge&labelColor=black&logo=webpack&logoColor=8DD6F9)](#)
 [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](#)
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
+[![Postman Badge](https://img.shields.io/badge/-postman-black?style=for-the-badge&labelColor=black&logo=postman)](#)
+
 
 <br>
 

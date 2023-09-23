@@ -22,10 +22,10 @@ I love building beautiful, component driven interfaces from scratch following UI
 [![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
 
 [![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
-[![NextJS Badge](https://img.shields.io/badge/-nextjs-gray?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
+[![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
 [![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
 
-[![ThreeJS Badge](https://img.shields.io/badge/-threejs-705df2?style=for-the-badge&labelColor=white&logo=three.js&logoColor=705df2)](#)
+[![ThreeJS Badge](https://img.shields.io/badge/-threejs-222222?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
 
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)

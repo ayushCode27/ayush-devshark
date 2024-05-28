@@ -26,20 +26,17 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
 [![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
-[![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
-
-
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)
+<!-- [![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) -->
 
-[![ThreeJS Badge](https://img.shields.io/badge/-threejs-222222?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
-[![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#)
+
+
+<!-- [![ThreeJS Badge](https://img.shields.io/badge/-threejs-222222?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
+[![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#) -->
 
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
-
-
-
 [![Jet Brains Badge](https://img.shields.io/badge/-Jet%20brains-cb4469?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=cb4469)](#)
 [![Postman Badge](https://img.shields.io/badge/-postman-black?style=for-the-badge&labelColor=black&logo=postman)](#)
 

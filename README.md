@@ -28,8 +28,14 @@
 
 [![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
 [![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
-[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F)](#)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-ddd?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
+[![POSTGRESQL Badge](https://img.shields.io/badge/-Postgre_SQL-3587bd?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
+
+[//]: # ([![MongoDB Badge]&#40;https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=13AA52&#41;]&#40;#&#41;)
+
+[//]: # ([![Spring]&#40;https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&labelColor=black&logo=spring&logoColor=6DB33F&#41;]&#40;#&#41;)
+[//]: # ([![Spring Boot]&#40;https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&labelColor=black&logo=springboot&logoColor=6DB33F&#41;]&#40;#&#41;)
 <!-- [![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) -->
 
 

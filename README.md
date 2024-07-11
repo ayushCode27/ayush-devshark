@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ayushagarwwal027-1ca0f1?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ayushagarwal027)
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-145a20166/)
 
-👋 Hello, I'm Ayush, a passionate full stack developer with a focus on building robust web applications using React and Spring Boot. With a blend of frontend and backend expertise, I thrive on crafting seamless user experiences while ensuring efficient data management and security on the server side
+👋 Hello, I'm Ayush, a passionate full stack developer with a focus on building robust web applications using React and NodeJS. With a blend of frontend and backend expertise, I thrive on crafting seamless user experiences while ensuring efficient data management and security on the server side
 
 🚀 On my GitHub, you'll find a collection of projects showcasing my skills and experience. From single-page applications powered by React to RESTful APIs and microservices developed with Node.js, each repository reflects my commitment to clean code, modular architecture, and continuous improvement.
 

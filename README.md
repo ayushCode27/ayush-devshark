@@ -13,24 +13,32 @@
 
 <br>
 
-## 💼 Programming Languages and Tools:
+### 💼 Programming Languages:
 
-<br>
+
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-B0732B?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=23ED8B00)](#)
+
+
+### 🎰 Framework and Libraries:
+[![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
+[![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-ddd?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
+[![POSTGRESQL Badge](https://img.shields.io/badge/-Postgre_SQL-3587bd?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
+
+
+
+### 🎨 Styling:
+
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
 [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-45e6dd?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=45e6dd)](#)
 [![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
 
-[![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
-[![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express Badge](https://img.shields.io/badge/-Express-ddd?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
-[![POSTGRESQL Badge](https://img.shields.io/badge/-Postgre_SQL-3587bd?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
 
 [//]: # ([![MongoDB Badge]&#40;https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=13AA52&#41;]&#40;#&#41;)
 
@@ -42,6 +50,8 @@
 
 <!-- [![ThreeJS Badge](https://img.shields.io/badge/-threejs-222222?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#) -->
+
+### 🛠️ Tools:
 
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)

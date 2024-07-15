@@ -13,7 +13,7 @@
 
 <br>
 
-### 💼 Programming Languages:
+## 💼 Programming Languages:
 
 
 
@@ -22,7 +22,7 @@
 [![Java Badge](https://img.shields.io/badge/-Java-B0732B?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=23ED8B00)](#)
 
 
-### 🎰 Framework and Libraries:
+## 🎰 Framework and Libraries:
 [![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
 [![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
@@ -31,7 +31,7 @@
 
 
 
-### 🎨 Styling:
+## 🎨 Styling:
 
 
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
@@ -51,7 +51,7 @@
 <!-- [![ThreeJS Badge](https://img.shields.io/badge/-threejs-222222?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#) -->
 
-### 🛠️ Tools:
+## 🛠️ Tools:
 
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)

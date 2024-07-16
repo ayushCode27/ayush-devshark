@@ -3,41 +3,34 @@
 [![Twitter Badge](https://img.shields.io/badge/-@ayushagarwwal027-1ca0f1?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ayushagarwal027)
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-145a20166/)
 
-👋 Hello, I'm Ayush, a passionate full stack developer with a focus on building robust web applications using React and NodeJS. With a blend of frontend and backend expertise, I thrive on crafting seamless user experiences while ensuring efficient data management and security on the server side
+👋 Hello, I'm Ayush, full stack developer with a focus on building robust web applications using React and NodeJS.
 
-🚀 On my GitHub, you'll find a collection of projects showcasing my skills and experience. From single-page applications powered by React to RESTful APIs and microservices developed with Node.js, each repository reflects my commitment to clean code, modular architecture, and continuous improvement.
 
-🔧 Whether I'm debugging complex frontend logic or optimizing backend performance, I approach every challenge with curiosity and determination. I'm passionate about collaborating with like-minded developers, contributing to projects, and sharing knowledge within the tech community.
-
-📫 Interested in discussing potential collaborations or opportunities? Feel free to reach out via email ayushagarwal.dev@gmail.com or connect with me on LinkedIn. Let's build something amazing together!
+📫 Feel free to reach out via email ayushagarwal.dev@gmail.com 
 
 <br>
 
-## 💼 Programming Languages:
+## 💼 Tech Stack:
 
 
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Java Badge](https://img.shields.io/badge/-Java-B0732B?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=23ED8B00)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black)](#)
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=white)](#)
+[![Java Badge](https://img.shields.io/badge/-Java-B0732B?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=23ED8B00&labelColor=B0732B)](#)
+[![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=61dafb&logo=react&logoColor=black)](#)
+[![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=3C873A&logo=node.js&logoColor=white)](#)
+[![Express Badge](https://img.shields.io/badge/-Express-ddd?style=for-the-badge&labelColor=ddd&logo=express&logoColor=black)](#)
+[![POSTGRESQL Badge](https://img.shields.io/badge/-Postgre_SQL-3587bd?style=for-the-badge&labelColor=3587bd&logo=postgresql&logoColor=white)](#)
+[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=E34F26&logo=html5&logoColor=white)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=white&labelColor=1572B6)](#)
+[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-45e6dd?style=for-the-badge&labelColor=45e6dd&logo=tailwind-css&logoColor=black)](#)
+[![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=CC6699&logo=sass&logoColor=white)](#)
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=F05032&logo=git&logoColor=white)](#)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
+[![Jet Brains Badge](https://img.shields.io/badge/-Jet%20brains-cb4469?style=for-the-badge&labelColor=cb4469&logo=jetbrains&logoColor=white)](#)
+[![Postman Badge](https://img.shields.io/badge/-postman-black?style=for-the-badge&labelColor=black&logo=postman)](#)
 
-
-## 🎰 Framework and Libraries:
-[![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=black&logo=react&logoColor=61dafb)](#)
-[![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=lightgray)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express Badge](https://img.shields.io/badge/-Express-ddd?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
-[![POSTGRESQL Badge](https://img.shields.io/badge/-Postgre_SQL-3587bd?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
-
-
-
-## 🎨 Styling:
-
-
-[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#)
-[![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-45e6dd?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=45e6dd)](#)
-[![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
 
 
 [//]: # ([![MongoDB Badge]&#40;https://img.shields.io/badge/-MongoDB-13AA52?style=for-the-badge&labelColor=white&logo=mongodb&logoColor=13AA52&#41;]&#40;#&#41;)
@@ -51,12 +44,8 @@
 <!-- [![ThreeJS Badge](https://img.shields.io/badge/-threejs-222222?style=for-the-badge&labelColor=black&logo=three.js&logoColor=white)](#)
 [![Styled Components Badge](https://img.shields.io/badge/-styled%20components-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=DB7093)](#) -->
 
-## 🛠️ Tools:
+<!-- ## 🛠️ Tools: -->
 
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
-[![Jet Brains Badge](https://img.shields.io/badge/-Jet%20brains-cb4469?style=for-the-badge&labelColor=black&logo=jetbrains&logoColor=cb4469)](#)
-[![Postman Badge](https://img.shields.io/badge/-postman-black?style=for-the-badge&labelColor=black&logo=postman)](#)
 
 
 <br>

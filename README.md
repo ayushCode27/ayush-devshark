@@ -48,13 +48,18 @@
 
 
 
-<br>
+[//]: # (<br>)
 
-## 📈 GitHub Stats
+[//]: # ()
+[//]: # (## 📈 GitHub Stats)
 
-<br>
+[//]: # ()
+[//]: # (<br>)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwal27&langs_count=7&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&)](https://github.com/ayushCode27/github-readme-stats)
-[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushagarwal27&count_private=true&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&hide_rank=true)](https://github.com/ayushagarwal27/github-readme-stats) 
+[//]: # ()
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=ayushagarwal27&langs_count=7&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&&#41;]&#40;https://github.com/ayushCode27/github-readme-stats&#41;)
 
+[//]: # ([![Ayush's github stats]&#40;https://github-readme-stats.vercel.app/api?username=ayushagarwal27&count_private=true&theme=ayu-mirage&hide=dart&layout=compact&hide_border=true&hide_rank=true&#41;]&#40;https://github.com/ayushagarwal27/github-readme-stats&#41; )
+
+[//]: # ()
 

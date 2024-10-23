@@ -1,14 +1,19 @@
-<img src='./assets/githubHeader.png' alt='Github Banner'>
+[//]: # (<img src='./assets/githubHeader.png' alt='Github Banner'>)
 
-[![Twitter Badge](https://img.shields.io/badge/-@ayushagarwwal027-1ca0f1?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/ayushagarwal027)
-[![Linkedin Badge](https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-agarwal-145a20166/)
+[//]: # ()
+[//]: # ([![Twitter Badge]&#40;https://img.shields.io/badge/-@ayushagarwwal027-1ca0f1?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/Ipenywis&#41;]&#40;https://twitter.com/ayushagarwal027&#41;)
 
-👋 Hello, I'm Ayush, full stack developer with a focus on building robust web applications using React and NodeJS.
+[//]: # ([![Linkedin Badge]&#40;https://img.shields.io/badge/-Ayush-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&#41;]&#40;https://www.linkedin.com/in/ayush-agarwal-145a20166/&#41;)
 
+[//]: # ()
+[//]: # (👋 Hello, I'm Ayush, full stack developer with a focus on building robust web applications using React and NodeJS.)
 
-📫 Feel free to reach out via email ayushagarwal.dev@gmail.com 
+[//]: # ()
+[//]: # ()
+[//]: # (📫 Feel free to reach out via email ayushagarwal.dev@gmail.com )
 
-<br>
+[//]: # ()
+[//]: # (<br>)
 
 ## 💼 Tech Stack:
 
@@ -16,7 +21,7 @@
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=white)](#)
-[![Java Badge](https://img.shields.io/badge/-Java-B0732B?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=23ED8B00&labelColor=B0732B)](#)
+[![Rust Badge](https://img.shields.io/badge/-Rust-B7410E?style=for-the-badge&labelColor=black&logo=rust&logoColor=23ED8B00&labelColor=B0732B)](#)
 [![React Badge](https://img.shields.io/badge/-React-61dafb?style=for-the-badge&labelColor=61dafb&logo=react&logoColor=black)](#)
 [![NextJS Badge](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=3C873A&logo=node.js&logoColor=white)](#)
